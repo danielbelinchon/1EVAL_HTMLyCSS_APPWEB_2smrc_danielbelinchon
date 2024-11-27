@@ -1,0 +1,31 @@
+/*selector universal*/
+*{
+    background-color: rgb(255, 255, 255);
+}
+/*Selector de etiqueta*/
+h1{
+    color: 
+    rgba(255, 13, 0, 0.76);
+}
+/*Selector de clase*/
+p.fondoazul{
+    background-color: blue;
+    color: white;
+}
+p.fondoverde{
+    background-color: lime;
+    color: red;
+}
+p.fondorojo{
+    background-color: red;
+}
+p.fondorosa{
+    background-color: rgb(233, 7, 184);
+}
+p.fondonamorado{
+    background-color: purple;
+}
+/*selectro de id*/
+p#unicomarron{
+    background-color: saddlebrown;
+}
